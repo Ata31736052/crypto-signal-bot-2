@@ -5,8 +5,8 @@ from datetime import datetime
 import ccxt
 import os
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TELEGRAM_BOT_TOKEN = os.getenv("8838013512:AAEMkDpCnzIU-VEnPp30bjLNRTXowz8Al4I")
+TELEGRAM_CHAT_ID = os.getenv("90464197")
 
 SYMBOLS = [
     "BTC/USDT", "ETH/USDT", "BNB/USDT", "SOL/USDT", "SUI/USDT",
